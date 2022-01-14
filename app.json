@@ -1,0 +1,39 @@
+{
+    "id": "13788681-cd49-466c-8039-02432eaf6679",
+    "name": "ARDO AT HELP APP",
+    "publisher":  "Essence Business Solutions",
+    "brief": "ARDO AT HELP APP",
+    "description": "Troubleshoot Calc and Post VAT Sett IN-002488",
+    "version": "19.0.0.1",
+    "privacyStatement":  "https://essencebs.eu/en/privacy-policy",
+    "EULA":  "https://essencebs.eu/en/software-app-end-user-license-agreement",
+    "help": "https://docs.essencebs.cz/en-US/financials-base/userguide/overview.html",
+    "url":  "https://essencebs.eu/en",
+    "contextSensitiveHelpUrl": "https://docs.essencebs.cz/{0}/financials-base/userguide/",
+    "supportedLocales": [
+        "en-US", "cs-CZ"
+      ],
+    "applicationInsightsConnectionString": "01a68560-845a-40d4-bd74-a63d286cd575",
+    "dependencies": [
+    ],
+    "screenshots": [],
+    "platform": "19.0.0.0",
+    "application": "19.0.0.1",
+    "idRanges": [
+        {
+            "from": 59900,
+            "to": 59909
+        }
+    ],
+    "features":  [
+        
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "includeSourceInSymbolFile": true,
+        "allowDownloadingSource": true
+    },        
+    "runtime": "8.0",
+    "target": "Cloud",
+    "suppressWarnings": ["AL0432"]
+}
